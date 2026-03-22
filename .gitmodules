@@ -1,0 +1,18 @@
+[submodule "server/include/robotlibpc"]
+	path = server/include/robotlibpc
+	url = git@github.com:Robotics-Club-Pulchowk/robotlibpc.git
+[submodule "martial_tree"]
+	path = martial_tree
+	url = git@github-Pratyush-Official:Pratyush-Official/martial_tree.git
+[submodule "server"]
+	path = server
+	url = git@github-Pratyush-Official:Pratyush-Official/server.git
+[submodule "ar_interfaces"]
+	path = ar_interfaces
+	url = git@github-Pratyush-Official:Pratyush-Official/ar_interfaces.git
+[submodule "serial_bridge_2026"]
+	path = serial_bridge_2026
+	url = git@github-Pratyush-Official:Pratyush-Official/serial_bridge_2026.git
+[submodule "launch_pkg"]
+	path = launch_pkg
+	url = git@github-Pratyush-Official:Pratyush-Official/launch_pkg.git
