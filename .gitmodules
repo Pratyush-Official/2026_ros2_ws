@@ -16,3 +16,7 @@
 [submodule "launch_pkg"]
 	path = launch_pkg
 	url = git@github-Pratyush-Official:Pratyush-Official/launch_pkg.git
+
+[submodule "martial_tree/include/robotlibpc"]
+	path = martial_tree/include/robotlibpc
+	url = git@github.com:Robotics-Club-Pulchowk/robotlibpc.git
