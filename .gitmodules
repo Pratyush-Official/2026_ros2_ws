@@ -8,7 +8,7 @@
 
 [submodule "server"]
 	path = server
-	url = git@github.com:Robotics-Club-Pulchowk/server.git
+	url = git@github.com:Robotics-Club-Pulchowk/2026_servers.git
 
 [submodule "server/include/robotlibpc"]
 	path = server/include/robotlibpc
