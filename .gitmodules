@@ -1,6 +1,6 @@
 [submodule "martial_tree"]
 	path = martial_tree
-	url = git@github-Pratyush-Official:Pratyush-Official/martial_tree.git
+	url = git@github.com:Robotics-Club-Pulchowk/martial_tree.git
 
 [submodule "martial_tree/include/robotlibpc"]
     path = martial_tree/include/robotlibpc
@@ -8,7 +8,7 @@
 
 [submodule "server"]
 	path = server
-	url = git@github-Pratyush-Official:Pratyush-Official/server.git
+	url = git@github.com:Robotics-Club-Pulchowk/server.git
 
 [submodule "server/include/robotlibpc"]
 	path = server/include/robotlibpc
@@ -16,12 +16,12 @@
 
 [submodule "ar_interfaces"]
 	path = ar_interfaces
-	url = git@github-Pratyush-Official:Pratyush-Official/ar_interfaces.git
+	url = git@github.com:Robotics-Club-Pulchowk/ar_interfaces.git
 
 [submodule "serial_bridge_2026"]
 	path = serial_bridge_2026
-	url = git@github-Pratyush-Official:Pratyush-Official/serial_bridge_2026.git
+	url = git@github.com:Robotics-Club-Pulchowk/serial_bridge_2026.git
 	
 [submodule "launch_pkg"]
 	path = launch_pkg
-	url = git@github-Pratyush-Official:Pratyush-Official/launch_pkg.git
+	url = git@github.com:Robotics-Club-Pulchowk/launch_pkg.git
