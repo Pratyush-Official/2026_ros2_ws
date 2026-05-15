@@ -16,7 +16,7 @@
 
 [submodule "ar_interfaces"]
 	path = ar_interfaces
-	url = git@github.com:Robotics-Club-Pulchowk/ar_interfaces.git
+	url = git@github.com:Robotics-Club-Pulchowk/ar_interfaces_2026.git
 
 [submodule "serial_bridge_2026"]
 	path = serial_bridge_2026
@@ -24,4 +24,4 @@
 	
 [submodule "launch_pkg"]
 	path = launch_pkg
-	url = git@github.com:Robotics-Club-Pulchowk/launch_pkg.git
+	url = git@github.com:Robotics-Club-Pulchowk/launch_pkg_2026.git
